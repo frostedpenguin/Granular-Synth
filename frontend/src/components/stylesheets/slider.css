@@ -1,0 +1,44 @@
+.slider {
+  height: 40vh;
+  width: 0.4%;
+  background-color: #ffec03;
+  -webkit-box-shadow: 0 0 10px #ffec03;
+  -moz-box-shadow: 0 0 10px #ffec03;
+  box-shadow: 0 0 10px #ffec03;
+  position: absolute;
+}
+.range {
+  height: 40vh;
+  width: 5%;
+  position: absolute; /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.43);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.8px);
+  -webkit-backdrop-filter: blur(4.8px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.slider_cont {
+  position: absolute;
+  width: 94%;
+  height: 40vh;
+  padding: 0;
+  z-index: 1;
+}
+.line {
+  position: absolute;
+  width: 0.2%;
+  height: 40vh;
+  background-color: yellow;
+  -webkit-box-shadow: 0 0 10px yellow;
+  -moz-box-shadow: 0 0 10px yellow;
+  box-shadow: 0 0 10px yellow;
+}
+.line_cont {
+  position: absolute;
+  height: 40vh;
+  top: 0;
+  margin-top: 3%;
+  width: 94%;
+  left: 3%;
+  z-index: 0;
+}

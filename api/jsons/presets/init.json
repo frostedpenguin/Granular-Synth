@@ -1,0 +1,25 @@
+
+{
+  "grain_size" : 0.1,
+  "gain" : 0.5,
+  "pan" : 0,
+ "ratio" : 10,
+  "decibels" : -20,
+  "delay" : 0.05,
+  "attack" : 0.05,
+  "release" : 0.1,
+  "overlap" : 0.1,
+  "reverse" : false,
+  "wet" : 0.5,
+  "decay" : 0.5,
+  "type" : "lowpass",
+  "frequency" : 15000,
+  "reverse" : 0,
+  "delayTime" : 0.3,
+  "delay_wet" : 0.9,
+  "feedback" : 0.1,
+  "phaser_frequency" : 30,
+  "octaves" : 2,
+  "phaser_wet": 0.3
+  
+}

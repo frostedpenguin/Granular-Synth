@@ -1,0 +1,31 @@
+
+.knob{
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+.dial{
+  width : 75px;
+}
+.flexWrap {
+  display : flex;
+  flex-wrap : wrap;
+  border-color : white;
+  border-width : 4px;
+  border-style : solid;
+  border-radius : 25px;
+  padding-top : 3%;
+  padding-bottom : 4%;
+}
+#timing{
+  padding-bottom : 18%;
+}
+.clusterWrapper{
+  color : white;
+  text-align : center;
+  padding : 2;
+  height: 20vh;
+}
+.clusterWrapper > h3 {
+  text-transform : capitalize
+}

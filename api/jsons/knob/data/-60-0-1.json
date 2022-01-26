@@ -1,0 +1,6 @@
+{
+  "min" : -60,
+  "max" : 0,
+  "step" : 1,
+  "angleOffset" : 0
+}
