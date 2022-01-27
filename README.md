@@ -26,8 +26,18 @@ The application follows the logic below
 ![diagram]( ./granular.jpg )
 
 ## Demo
-video
-
+[![IMAGE ALT TEXT HERE](./thumbnail.jpg)](./final-demo.mp4)
+## Instalation
+If you want to try it for yourself clone the repo and run
+`npm i; yarn`
+for each the api and frontend folders 
+after run 
+`cd api; 
+node ./bin/www` 
+to start the server
+and 
+`cd frontend ;
+npm start` to start react
 ## Links
 More info in the [presentation](./presentation.pdf)
 
