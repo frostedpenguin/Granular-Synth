@@ -26,7 +26,7 @@ The application follows the logic below
 ![diagram]( ./granular.jpg )
 
 ## Demo
-[![demo](./thumbnail.jpg)](https://www.youtube.com/watch?v=BqoPrmGFGbo)
+[![demo](./thumbnail.jpg)](https://www.youtube.com/watch?v=OIv89cxvS1U)
 ## Instalation
 If you want to try it for yourself clone the repo and run
 `npm i; yarn`
