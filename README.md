@@ -26,7 +26,7 @@ The application follows the logic below
 ![diagram]( ./granular.jpg )
 
 ## Demo
-<!-- [![IMAGE ALT TEXT HERE](./thumbnail.jpg)](https://www.youtube.com/watch?v=BqoPrmGFGbo) -->
+[![demo](./thumbnail.jpg)](https://www.youtube.com/watch?v=BqoPrmGFGbo)
 ## Instalation
 If you want to try it for yourself clone the repo and run
 `npm i; yarn`
